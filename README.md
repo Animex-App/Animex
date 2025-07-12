@@ -7,7 +7,7 @@
   <strong>Indie Made, Indie Designed. Welcome to Animex, your new Anime and Manga Home</strong>
 </p>
 <p align="center">
-    <img alt="license" src="[https://img.shields.io/github/license/aleganza/akuse?style=for-the-badge&labelColor=1a1d24](https://img.shields.io/github/license/Animex-App/Animex?style=for-the-badge&labelColor=1a1d24)"> 
+    <img alt="license" src="https://img.shields.io/github/license/Animex-App/Animex?style=for-the-badge&labelColor=1a1d24"> 
     <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/Animex-App/Animex-Desktop?style=for-the-badge&labelColor=1a1d24">
     <img alt="total-downloads" src="https://img.shields.io/github/downloads/Animex-App/Animex/total?style=for-the-badge&labelColor=1a1d24">
 </p>
