@@ -12,9 +12,14 @@
     <img alt="total-downloads" src="https://img.shields.io/github/downloads/Animex-App/Animex/total?style=for-the-badge&labelColor=1a1d24">
 </p>
 
-> [!WARNING]  
-> THIS PLATFORM DOESN'T HOST ANY CONTENT SERVED TO CONSUMERS, IT MERELY SCRAPES AND SERVES CONTENT FROM 3RD PARTY SOURCES. See [Extension Ssources](https://github.com/Animex-App/Extension-Servers)
+## This Platform is yet to release. ETA: (Unknown), but estimated late July
 
+> [!IMPORTANT]  
+> THIS PLATFORM DOESN'T HOST ANY CONTENT SERVED TO CONSUMERS, IT MERELY SCRAPES AND SERVES CONTENT FROM 3RD PARTY SOURCES. See [Extension Ssources](https://github.com/Animex-App/Extension-Servers)
+## Credits
+
+- [Jikan API](https://jikan.moe/): used to fetch anime data
+- [Kitsu API](https://github.com/hummingbird-me): used to fetch episodes info and thumbnails
 
 # Legal
 
